@@ -9,6 +9,6 @@ I later realized that a software can do this much faster , so I put in a few hou
 #How to Download just the App ?
 STEP 1 -Install Microsoft .NET Framework 4.0 (or higher)
 <br>
-STEP 2 -Grab the Zip file in the Application Directory
+STEP 2 -Grab the Setup file in the Application Directory
 
 
